@@ -75,14 +75,12 @@ https://developer.atlassian.com/cloud/trello/rest/
 ```   
     W zakładce test:
     - dodaj test sprawdzający status code
-    - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
     
 ### 7. Update a Card - PUT /1/cards/{id}
     Przenieś kartę z TODO na DONE
     
     W zakładce test:
     - dodaj test sprawdzający status code
-    - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
     
 ### 8. Delete a Board - DELETE /1/boards/{id} <---- to robimy od razu po create
     Usuń tablicę
