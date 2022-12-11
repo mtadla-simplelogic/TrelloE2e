@@ -59,7 +59,7 @@ https://developer.atlassian.com/cloud/trello/rest/
     W zakładce test:
     - dodaj test sprawdzający status code
     - dodaj test sprawdzający czy w reponse body tekst komentarza to "done!"
-    - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
+    - zapisz otrzymane ID karty jako zmienną kolekcji o nazwie 'cardId'
     
 ### 6. Create Reaction for Action - POST /1/actions/{idAction}/reactions
     Utwórz reakcje do komentarza -> wysłanie emoji LIKE 
