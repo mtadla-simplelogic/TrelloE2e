@@ -90,7 +90,7 @@ https://developer.atlassian.com/cloud/trello/rest/
     W zakładce test:
     - dodaj test sprawdzający status code
     
-### 9. Get a Board - GET /1/boards/{id}
+### 9. Get a Board - GET /1/boards/{id}    <---- to robimy od razu po create
     Spróbuj pobrać dane usuniętej tablicy
     
     W zakładce test:
