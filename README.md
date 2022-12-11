@@ -84,13 +84,13 @@ https://developer.atlassian.com/cloud/trello/rest/
     - dodaj test sprawdzający status code
     - zapisz otrzymane ID tablicy jako zmienną kolekcji o nazwie 'boardId'
     
-### 8. Delete a Board - DELETE /1/boards/{id}
+### 8. Delete a Board - DELETE /1/boards/{id} <---- to robimy od razu po create
     Usuń tablicę
     
     W zakładce test:
     - dodaj test sprawdzający status code
     
-### 9. Get a Board - GET /1/boards/{id}    <---- to robimy od razu po create
+### 9. Get a Board - GET /1/boards/{id}    
     Spróbuj pobrać dane usuniętej tablicy
     
     W zakładce test:
